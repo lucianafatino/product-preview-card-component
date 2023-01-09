@@ -1,0 +1,54 @@
+# Frontend Mentor - Product preview card component solution
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
+- [Bootstrap](https://getbootstrap.com/) - CSS library
+
+### What I learned
+With this project I got a better understanding of how to work with columns inside Bootstrap, how sizes inside divs work and a better understanding of media queries.
+
+### Continued development
+
+I want to focus more on mobile development. I want to have a more deep understanding of how media queries work and I also want to start to work more with Flexbox CSS.
+
+## Author
+
+- Github Profile - [Luciana Fatino Venâncio](https://github.com/lucianafatino)
+- Frontend Mentor - [@lucianafatino](https://www.frontendmentor.io/profile/lucianafatino)
