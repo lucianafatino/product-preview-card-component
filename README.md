@@ -18,6 +18,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ## Overview
+Product preview card component build with HTML, CSS and Bootstrap.
 
 ### The challenge
 
