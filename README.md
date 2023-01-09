@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/lucianafatino/product-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://63bc956c2181ab045e28dab1--melodious-belekoy-19dac7.netlify.app/)
 
 ### Built with
 
